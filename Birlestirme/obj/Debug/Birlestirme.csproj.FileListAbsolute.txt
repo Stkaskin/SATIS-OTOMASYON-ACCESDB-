@@ -1,0 +1,140 @@
+c:\users\zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\bin\Debug\Birlestirme.exe.config
+c:\users\zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.Properties.Resources.resources
+c:\users\zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.csproj.GenerateResource.Cache
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.csprojResolveAssemblyReference.cache
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.Form6.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.Form9.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.Menü.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\bin\Debug\Birlestirme.exe
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\bin\Debug\Birlestirme.pdb
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.exe
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.pdb
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.urunislem.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.perislem.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.Satıssoru.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.urunekle.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.satisrapor.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.avansislem.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.arztalepistatislik.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.gunlukaylıkyıllıklog.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.yetkiislem.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.stokislem.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.satisislem.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.personelduzenle.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.yenipersonelekle.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.giris.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.baslangicekrani.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\bin\Debug\MessageBoxManager.pdb
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.stokgircik.resources
+C:\Users\Zehra\documents\visual studio 2012\Projects\Birlestirme\Birlestirme\obj\Debug\Birlestirme.yetkilerdeislem.resources
+S:\Projelerim\Birlestirme\Birlestirme\bin\Debug\Birlestirme.exe.config
+S:\Projelerim\Birlestirme\Birlestirme\obj\Debug\Birlestirme.exe
+S:\Projelerim\Birlestirme\Birlestirme\obj\Debug\Birlestirme.pdb
+S:\Projelerim\Ödev\Birlestirme\bin\Debug\Birlestirme.exe.config
+S:\Projelerim\Ödev\Birlestirme\bin\Debug\Birlestirme.exe
+S:\Projelerim\Ödev\Birlestirme\bin\Debug\Birlestirme.pdb
+S:\Projelerim\Ödev\Birlestirme\bin\Debug\MessageBoxManager.pdb
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.csprojResolveAssemblyReference.cache
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.avansislem.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.arztalepistatislik.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.personelduzenle.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.satisislem.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.gunlukaylıkyıllıklog.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.satisrapor.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.Satıssoru.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.urunekle.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.urunislem.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.yenipersonelekle.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.yetkiislem.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.perislem.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.yetkilerdeislem.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.stokislem.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.Form6.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.giris.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.baslangicekrani.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.Form9.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.stokgircik.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.Menü.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.Properties.Resources.resources
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.csproj.GenerateResource.Cache
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.exe
+S:\Projelerim\Ödev\Birlestirme\obj\Debug\Birlestirme.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\bin\Debug\Birlestirme.exe.config
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.exe
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\bin\Debug\Birlestirme.exe
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\bin\Debug\Birlestirme.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\bin\Debug\MessageBoxManager.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.csprojResolveAssemblyReference.cache
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.avansislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.arztalepistatislik.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.personelduzenle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.satisislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.gunlukaylıkyıllıklog.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.satisrapor.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.Satıssoru.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.urunekle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.urunislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.yenipersonelekle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.perislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.yetkilerdeislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.stokislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.Form6.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.giris.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.baslangicekrani.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.Form9.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.stokgircik.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.Menü.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.Properties.Resources.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.csproj.GenerateResource.Cache
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.urunduzenle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödev\Birlestirme\obj\Debug\Birlestirme.kullaniciislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\bin\Debug\Birlestirme.exe.config
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.exe
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\bin\Debug\Birlestirme.exe
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\bin\Debug\Birlestirme.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\bin\Debug\MessageBoxManager.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.csprojResolveAssemblyReference.cache
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.kullaniciislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.urunduzenle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.personelduzenle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.satisislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.Satıssoru.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.urunekle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.urunislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.yenipersonelekle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.perislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.yetkilerdeislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.stokislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.giris.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.Menü.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.Properties.Resources.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.csproj.GenerateResource.Cache
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.Urunislemler.satisislemdeneme.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.baslangis.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.profil.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.sirketekle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.marktoptur.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.stoksoru.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.satisbak.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\Ödevkopyaduzenle\Birlestirme\obj\Debug\Birlestirme.odemeyap.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\bin\Debug\Birlestirme.exe.config
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.exe
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.pdb
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\bin\Debug\Birlestirme.exe
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\bin\Debug\Birlestirme.pdb
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\bin\Debug\MessageBoxManager.pdb
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.csprojResolveAssemblyReference.cache
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.baslangis.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.odemeyap.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.urunduzenle.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.satisislem.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.Satıssoru.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.urunekle.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.urunislem.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.Menü.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.Properties.Resources.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.csproj.GenerateResource.Cache
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.hesapdefteri.resources
+C:\Users\Askin\Documents\visual studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.musteri.resources

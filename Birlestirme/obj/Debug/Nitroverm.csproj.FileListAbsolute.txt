@@ -1,0 +1,49 @@
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\bin\Debug\Birlestirme.exe.config
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.exe
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\bin\Debug\Birlestirme.exe
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\bin\Debug\Birlestirme.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\bin\Debug\MessageBoxManager.pdb
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Nitroverm.csprojResolveAssemblyReference.cache
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.baslangis.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.hesapdefteri.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.musteri.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.odemeyap.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.urunduzenle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.satisislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.Satıssoru.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.urunekle.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.urunislem.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.Menü.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.Properties.Resources.resources
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Nitroverm.csproj.GenerateResource.Cache
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\RdlCompile.cache
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\RdlCompile.compiled
+C:\Users\Askin\Documents\Visual Studio 2012\Projects\uyarla\Birlestirme\obj\Debug\Birlestirme.Form3.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\bin\Debug\Birlestirme.exe.config
+C:\Users\Askin\Desktop\uyarla\Birlestirme\bin\Debug\Birlestirme.exe
+C:\Users\Askin\Desktop\uyarla\Birlestirme\bin\Debug\Birlestirme.pdb
+C:\Users\Askin\Desktop\uyarla\Birlestirme\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Askin\Desktop\uyarla\Birlestirme\bin\Debug\MessageBoxManager.pdb
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Nitroverm.csproj.AssemblyReference.cache
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.baslangis.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.Form3.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.hesapdefteri.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.musteri.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.odemeyap.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.urunduzenle.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.satisislem.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.Satıssoru.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.urunekle.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.urunislem.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.Menü.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.Properties.Resources.resources
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Nitroverm.csproj.GenerateResource.cache
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Nitroverm.csproj.CoreCompileInputs.cache
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Nitroverm.csproj.CopyComplete
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.exe
+C:\Users\Askin\Desktop\uyarla\Birlestirme\obj\Debug\Birlestirme.pdb
+C:\Users\Askin\Desktop\uyarla\Birlestirme\bin\Debug\Report4.rdlc
+C:\Users\Askin\Desktop\uyarla\Birlestirme\bin\Debug\Report3.rdlc
+C:\Users\Askin\Desktop\uyarla\Birlestirme\bin\Debug\Report2.rdlc
+C:\Users\Askin\Desktop\uyarla\Birlestirme\bin\Debug\Report1.rdlc
